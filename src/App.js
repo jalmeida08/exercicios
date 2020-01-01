@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { View, StyleSheet } from 'react-native';
+
 import Simples from './componentes/Simples';
 import  Inverter, { MegaSena } from './componentes/Multi';
 import ParOuImpar from './componentes/ParOuImpar';
